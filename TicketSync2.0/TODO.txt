@@ -1,0 +1,8 @@
+* = important
+
+Error file - deals woth all the errors in the code
+
+*Create loop - countdown timer -DONE
+
+Frontend - Allow user to find and enable alerts 
+
